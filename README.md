@@ -5,4 +5,4 @@ A 2D game in which the player must dodge incoming traffic using arrow keys. Made
 
 ![image](https://user-images.githubusercontent.com/29958259/174262484-6072a5b7-4abb-4ca6-be5d-529799335f8a.png)
 
-![image](https://user-images.githubusercontent.com/29958259/174263602-33e5fdc8-5302-4db2-8440-66656f7525ac.png)
+![image](https://user-images.githubusercontent.com/29958259/174263978-2494385d-dd6d-4b90-b845-7ed73e528aa1.png)
